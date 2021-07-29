@@ -1,2 +1,5 @@
-# -KrGil.github.io
-my portfolio page
+
+# My Portfolio page!!
+| www.KrGil.github.io
+---
+but not ready yet haha
