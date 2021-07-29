@@ -1,5 +1,5 @@
 
 # My Portfolio page!!
-| www.KrGil.github.io
+| https://krgil.github.io
 ---
 but not ready yet haha
